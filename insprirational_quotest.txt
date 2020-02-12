@@ -3,3 +3,5 @@ do or donot, there is no try - Yoda
 It always seems impossible until its done - Nelson Mandela
 
 Live long and prosper - Spoc
+
+I wanted to see git diff how it works

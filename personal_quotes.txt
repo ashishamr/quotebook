@@ -3,3 +3,5 @@ Strength through struggle - Michale Choi
 
 I like green  - Jay patel
 
+
+Example for git diff in personal quotes
