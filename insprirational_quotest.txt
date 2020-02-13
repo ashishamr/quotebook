@@ -5,3 +5,5 @@ It always seems impossible until its done - Nelson Mandela
 Live long and prosper - Spoc
 
 I wanted to see git diff how it works
+
+The best way to create feature is to create it - Peter
