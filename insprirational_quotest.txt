@@ -7,3 +7,5 @@ Live long and prosper - Spoc
 I wanted to see git diff how it works
 
 The best way to create feature is to create it - Peter
+
+If you can dream it, you can do it - walt disney
